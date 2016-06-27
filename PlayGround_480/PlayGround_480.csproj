@@ -114,13 +114,13 @@
     <Content Include="Content\css\bootstrap.css.map" />
     <Content Include="Content\css\bootstrap-theme.min.css.map" />
     <Content Include="Content\css\bootstrap-theme.css.map" />
-    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Scripts\default.js" />
-    <Content Include="Scripts\jquery-1.9.1.js" />
-    <Content Include="Scripts\jquery-1.9.1.min.js" />
-    <Content Include="Scripts\jquery-1.9.1.min.map" />
+    <None Include="xxx\jquery-1.9.1.intellisense.js" />
+    <Content Include="xxx\bootstrap.js" />
+    <Content Include="xxx\bootstrap.min.js" />
+    <Content Include="xxx\default.js" />
+    <Content Include="xxx\jquery-1.9.1.js" />
+    <Content Include="xxx\jquery-1.9.1.min.js" />
+    <Content Include="xxx\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -129,11 +129,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Scripts\test.js" />
+    <Content Include="xxx\test.js" />
     <Content Include="Views\index.html" />
-    <Content Include="Scripts\ai.0.22.9-build00167.js" />
-    <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
-    <Content Include="Scripts\qunit.js" />
+    <Content Include="xxx\ai.0.22.9-build00167.js" />
+    <Content Include="xxx\ai.0.22.9-build00167.min.js" />
+    <Content Include="xxx\qunit.js" />
     <Content Include="Views\qUnit.html" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
